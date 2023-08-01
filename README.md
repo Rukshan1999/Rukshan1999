@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Tharindu Rukshan</h1>
+![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
 <h3 align="center">A passionate Software Engineer Student at IJSE.</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshan1999&label=Profile%20views&color=0e75b6&style=flat" alt="rukshan1999" /> </p>
 
