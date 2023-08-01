@@ -1,19 +1,17 @@
 ![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
 <h3 align="center">A passionate Software Engineer Student at IJSE.</h3>
 
-<p>I enjoy building robust and scalable stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions. Software Engineering Student @IJSE, I'm currently studying advanced API Development for cross-platform web application development.</p>
+<p>I enjoy building stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions. Software Engineering Student @IJSE, </p>
 
-<p>💻 My tech stack includes Java, Mysql, Javafx, JDBC, ORM (Hibernate), Java Sockets, HTML, CSS, JavaScript & Bootstrap, and web development using Servlet Java.</p>
+<p>💻 My tech stack includes Java, Mysql, Javafx, JDBC, ORM (Hibernate), HTML, CSS, JavaScript & Bootstrap, and web development using Servlet Java.</p>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshan1999&label=Profile%20views&color=0e75b6&style=flat" alt="rukshan1999" /> </p>
 
 - 🌱 I’m currently learning **java, Javascript, angular**
 - 💻 Studies at IJSE - Institue of Software Engineering
-- - 🎓 Studied at University of Ruhuna
+- 🎓 Studied at University of Ruhuna
 - 📫 How to reach me **tharindurukshan709@gmail.com**
 
 
