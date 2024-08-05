@@ -1,4 +1,7 @@
-![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
+<p align="center>
+  ![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
+</p>
+
 <h3 align="center">A passionate Trainee Software Engineer at ISE.</h3>
 
 <p>I'm a trainee software engineer at ISE. I enjoy building stand-alone systems and web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.</p>
