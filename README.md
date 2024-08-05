@@ -1,6 +1,6 @@
-<p align="center>
-  ![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
-</p>
+
+![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
+
 
 <h3 align="center">A passionate Trainee Software Engineer at ISE.</h3>
 
