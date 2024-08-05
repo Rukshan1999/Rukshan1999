@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
 <h3 align="center">A passionate Trainee Software Engineer at ISE.</h3>
 
-<p>I enjoy building stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions. Software Engineering Student @IJSE, </p>
+<p>I'm a trainee software engineer at ISE. I enjoy building stand-alone systems and web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.</p>
 
 <p>💻 My tech stack includes Java, Mysql, HTML, CSS, JavaScript, React , Angular & Bootstrap, and web development.</p>
 
