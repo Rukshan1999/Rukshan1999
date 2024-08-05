@@ -1,5 +1,5 @@
 ![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
-<h3 align="center">A passionate Software Engineer Student at IJSE.</h3>
+<h3 align="center">A passionate Trainee Software Engineer at ISE.</h3>
 
 <p>I enjoy building stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions. Software Engineering Student @IJSE, </p>
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshan1999&label=Profile%20views&color=0e75b6&style=flat" alt="rukshan1999" /> </p>
 
-- 🌱Trainee Software Engineer at ISE**
-- 💻 Studies at IJSE - Institue of Software Engineering
-- 🎓 Studied at University of Ruhuna
+- 💻 Trainee Software Engineer at ISE**
+- 🎓 Studied at IJSE - Institue of Software Engineering
+- 🎓 Graduate of University of Ruhuna
 - 📫 How to reach me **tharindurukshan709@gmail.com**
 
 
