@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshan1999&label=Profile%20views&color=0e75b6&style=flat" alt="rukshan1999" /> </p>
 
-- 💻 Trainee Software Engineer at ISE**
+- 💻 Trainee Software Engineer at ISE (Pvt) Ltd.
 - 🎓 Studied at IJSE - Institue of Software Engineering
 - 🎓 Graduate of University of Ruhuna
 - 📫 How to reach me **tharindurukshan709@gmail.com**
