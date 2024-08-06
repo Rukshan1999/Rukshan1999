@@ -1,5 +1,5 @@
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width = 100px></p>
 
 
 <h3 align="center">A passionate Trainee Software Engineer at ISE.</h3>
