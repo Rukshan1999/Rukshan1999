@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Rukshan1999/Rukshan1999/blob/main/github-header-image.png)
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 
 <h3 align="center">A passionate Trainee Software Engineer at ISE.</h3>
