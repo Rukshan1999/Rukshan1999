@@ -8,15 +8,15 @@
   <img  src = "https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e?raw=true" width="800px">
 </p>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
+<img width="350px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukshan1999&label=Profile%20views&color=0e75b6&style=flat" alt="rukshan1999" /> </p>
-
-- 💻 Trainee Software Engineer at ISE (Pvt) Ltd.
-- 🎓 Studied at IJSE - Institue of Software Engineering
-- 🧑‍🎓 Graduate of University of Ruhuna
-- 📫 How to reach me **tharindurukshan709@gmail.com**
-
+<p align="left"r>
+- 💻 Trainee Software Engineer at ISE (Pvt) Ltd.<br>
+- 🎓 Studied at IJSE - Institue of Software Engineering<br>
+- 🧑‍🎓 Graduate of University of Ruhuna<br>
+- 📫 How to reach me **tharindurukshan709@gmail.com**<br>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22318250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22318250" height="30" width="40" /></a>
