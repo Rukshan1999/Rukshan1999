@@ -1,14 +1,12 @@
+<div style="border: 2px solid white; padding: 10px; ">
+  <h3 align="center">💻 A passionate Trainee Software Engineer at ISE 💻</h3>
+  <p align="center">I'm a trainee software engineer at ISE. I enjoy building stand-alone systems and web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.</p>
+  <p align="center"> My tech stack includes Java, Mysql, HTML, CSS, JavaScript, React , Angular & Bootstrap, and web development.</p>
+</div>
 
 <p align="center" >
   <img  src = "https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e?raw=true" width="800px">
 </p>
-
-
-<h3 align="center">A passionate Trainee Software Engineer at ISE.</h3>
-
-<p>I'm a trainee software engineer at ISE. I enjoy building stand-alone systems and web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.</p>
-
-<p>💻 My tech stack includes Java, Mysql, HTML, CSS, JavaScript, React , Angular & Bootstrap, and web development.</p>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 
@@ -18,7 +16,6 @@
 - 🎓 Studied at IJSE - Institue of Software Engineering
 - 🎓 Graduate of University of Ruhuna
 - 📫 How to reach me **tharindurukshan709@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
