@@ -14,7 +14,7 @@
 
 - 💻 Trainee Software Engineer at ISE (Pvt) Ltd.
 - 🎓 Studied at IJSE - Institue of Software Engineering
-- 🎓 Graduate of University of Ruhuna
+- 🧑‍🎓 Graduate of University of Ruhuna
 - 📫 How to reach me **tharindurukshan709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
